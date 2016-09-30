@@ -1,0 +1,6 @@
+C:\Users\brad\Desktop\Skillset\Angular-JS-InAction\Angelo-Lite\bin\Angelo-Lite.dll.config
+C:\Users\brad\Desktop\Skillset\Angular-JS-InAction\Angelo-Lite\bin\Angelo-Lite.dll
+C:\Users\brad\Desktop\Skillset\Angular-JS-InAction\Angelo-Lite\bin\Angelo-Lite.pdb
+C:\Users\brad\Desktop\Skillset\Angular-JS-InAction\Angelo-Lite\obj\Debug\Angelo-Lite.csprojResolveAssemblyReference.cache
+C:\Users\brad\Desktop\Skillset\Angular-JS-InAction\Angelo-Lite\obj\Debug\Angelo-Lite.dll
+C:\Users\brad\Desktop\Skillset\Angular-JS-InAction\Angelo-Lite\obj\Debug\Angelo-Lite.pdb
